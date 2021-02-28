@@ -1,0 +1,3 @@
+https://github.com/JuanDiegoVillafuertePazos/Lab04_Micros
+
+El documento .s completo es el que se llama "doble7seg.s" ya que aparecen 3 archivos .s, ignorar el resto
